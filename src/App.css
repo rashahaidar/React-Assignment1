@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  margin: 50px;
+}
+.User {
+  margin: 20px;
+}
+.User div {
+  display: inline-block;
+
 }
 
 .App-logo {
